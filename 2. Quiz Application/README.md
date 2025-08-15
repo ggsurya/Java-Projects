@@ -54,7 +54,7 @@ Correct!
 Your total score: 2/3
 ```
 
-## How the Game Works
+## How It Works
 
 - Each question has 4 options.
 - Users enter the number corresponding to their chosen option.
