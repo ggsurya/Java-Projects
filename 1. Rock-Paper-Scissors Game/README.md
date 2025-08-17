@@ -13,7 +13,6 @@ A simple command-line Java game where you can play Rock-Paper-Scissors against t
 ## Usage
 
 1. Clone the repository or download the source code file.
-
 2. Compile the program with a Java compiler. For example:
    ```bash
    javac RockPaperScissors.java
