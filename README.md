@@ -13,6 +13,7 @@ This collection showcases several small to intermediate console applications dem
 - [Library Management System](https://github.com/ggsurya/Java-Projects/blob/main/5.%20Library%20Management%20System/README.md) — Add, issue, return, and list books with their current status in a simple library setup.
 
 ## 📩 Contact
+
 **G.G. Surya**  
 📧 Email: ggsuryaff@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/g-g-surya-5aa9312b4)
