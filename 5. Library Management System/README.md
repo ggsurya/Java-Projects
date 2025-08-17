@@ -13,7 +13,6 @@ A simple command-line Java program to manage books in a library. Users can add, 
 ## Usage
 
 1. Clone the repository or download the source code file.
-
 2. Compile the program with a Java compiler. For example:
    ```bash
    javac LibraryManagementSystem.java
