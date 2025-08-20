@@ -1,4 +1,4 @@
-# Java Mini Projects Collection 🚀
+# ☕ Java Mini Projects Collection 🚀
 
 Welcome to my Java Projects repository!
 
