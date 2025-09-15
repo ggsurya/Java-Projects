@@ -59,7 +59,7 @@ The Alchemist                  Paulo Coelho          Available
 1984                           George Orwell         Issued
 ```
 
-## How the Game Works
+## How It Works
 
 - Users interact with a numbered menu to manage library operations.
 - Books are stored in an ArrayList with title, author, and issue status.
