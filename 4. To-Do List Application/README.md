@@ -81,7 +81,7 @@ To-Do List:
 2. [ ] Read a book
 ```
 
-## How the Game Works
+## How it Works
 
 - Users interact via a simple numbered menu.
 - Tasks are stored in two lists: one for task descriptions and one for completion status.
